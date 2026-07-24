@@ -1,7 +1,7 @@
 extension:
   name: duck_diff
   description: Diff two relations (tables, queries) off a primary key, reporting per-key status (identical/different/left_only/right_only), a JSON summary of changed columns, and per-column left/right values.
-  version: 0.3.1
+  version: 0.3.0
   language: C++
   build: cmake
   license: MIT
